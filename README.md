@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Enthusiastic focused and motivated Fullstack Developer with a passion for clean code. Curious and always willing to learn new technologies. 
 
-- 📫 How to reach me: linkedin.com/in/paula-masutier/
+- 📫 How to reach me: [linkedin.com/in/paula-masutier/](https://www.linkedin.com/in/paula-masutier/)
 
 
 ### Hobbies
