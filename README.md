@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **pmasutie/pmasutie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 
 ## Paula Masutier
-Full Stack software engineer from Barcelona
+
+Enthusiastic focused and motivated Fullstack Developer with a passion for clean code. Curious and always willing to learn new technologies. 
+
 - 📫 How to reach me: linkedin.com/in/paula-masutier/
 
 
