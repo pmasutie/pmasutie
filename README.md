@@ -23,7 +23,7 @@ Full Stack software engineer from Barcelona
 
 
 ### Hobbies
-- 🚲 Mountain Biking 🏄‍♂️ Surfing ⛷ Skiing
+- 🚲 Mountain Biking 🏺 Pottery 👩‍🌾 Gardening
 
 
 ## My Languages and tools
