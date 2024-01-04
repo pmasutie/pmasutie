@@ -25,7 +25,7 @@ Enthusiastic focused and motivated Fullstack Developer with a passion for clean 
 
 
 ### Hobbies
-- 🚲 Mountain Biking 🏺 Pottery 👩‍🌾 Gardening
+- 🏺 Pottery 👩‍🌾 Gardening
 
 
 ## My Languages and tools
